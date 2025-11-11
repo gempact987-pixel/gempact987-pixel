@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **gempact987-pixel/gempact987-pixel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,9 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi there 👋
 
-# 👋 Hi, I'm gempact987-pixel
+# 👋 Hi, I'm RahulMurmu
 
 Welcome to my GitHub profile! I'm a passionate developer exploring Full‑Stack Development, DevOps, Cloud, and modern tooling.
 
