@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-# 👋 Hi, I'm RahulMurmu
+# 👋 Hi, I'm Rahul Murmu
 
 Welcome to my GitHub profile! I'm a passionate developer exploring Full‑Stack Development, DevOps, Cloud, and modern tooling.
 
